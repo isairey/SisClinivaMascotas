@@ -71,8 +71,8 @@ Este sistema fue diseñado para digitalizar y optimizar la administración de un
 ### 1️⃣ Clonar el repositorio
 
 ```bash id="g2n7k1"
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/SisClinicaMascotas.git
+cd SistemaClinicaMascotas
 ```
 
 ---
